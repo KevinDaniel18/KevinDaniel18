@@ -1,5 +1,6 @@
 ## Hi, I'm Kevin 👋
-🔭 I’m currently working on Building scalable web and mobile apps with React Native, Next.js, NestJS, and PostgreSQL.<br>🤝 I’m looking to collaborate on Modern SaaS products, mobile apps, and open-source tools focused on productivity or AI.<br>🙋‍♂️ I’m looking for help with Improving CI/CD pipelines, backend architecture, and design systems.<br>🌱 I’m currently learning Advanced DevOps, serverless architectures, and AI integrations for mobile apps.<br>💬 Ask me about React Native, modern UI/UX, app architecture, or how to scale apps with real-time features.<br>⚡ Fun fact: I love building apps that feel smooth, animated, and extremely fast — performance is my obsession.
+🔭 I’m currently working on Building scalable web and mobile apps with React Native, Next.js, NestJS, and PostgreSQL.<br>🤝 I’m looking to collaborate on Modern SaaS products, mobile apps, and open-source tools focused on productivity or AI.<br>
+<br>🌱 I’m currently learning Advanced DevOps, serverless architectures, and AI integrations for mobile apps.<br>💬 Ask me about React Native, modern UI/UX, app architecture, or how to scale apps with real-time features.<br>⚡ Fun fact: I love building apps that feel smooth, animated, and extremely fast — performance is my obsession.
 
 
 ## 🌐 Socials:
